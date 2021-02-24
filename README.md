@@ -1,1 +1,2 @@
-# NEW-IP-TRACKING
+내 Python 프로젝트에 오류가 있습니다. 새 IP 위치 추적입니다.
+429 오류를 방지하기위한 Sleep 
